@@ -6,3 +6,5 @@ Language: python
 Last updated: 2017-06-27
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
+
+使用python 练习数据结构
